@@ -4,7 +4,7 @@ repository for SNUway project
 -------------
 SNUway is an App for finding way in SNU
 
-*Two color
+* Two color
 
 >main    (255, 100, 100)
 
